@@ -1,5 +1,7 @@
 # REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA SUR (2012)
 
+<figure><img src=".gitbook/assets/New Logo HuQuMa Studio Vertical.png" alt="" width="188"><figcaption></figcaption></figure>
+
 ## Introduccion
 
 Este documento lo digitalize a partir del archivo en word publicado for las siguientes fuentes oficiales del gobierno:
@@ -24,9 +26,7 @@ C. Lic. leonel efrain cota montaño, gobernador constitucional del estado de baj
 
 por lo que con el fin de que los fraccionamientos que se construyan en el estado de baja california sur, cumplan con las necesidades técnicas, seguridad y orden de una manera especifica, el ejecutivo a mi cargo, a (sic) tenido a bien expedir el siguiente: **reglamento de fraccionamientos del estado de baja california sur.**
 
-
-
-[**CAPITULO PRIMERO : DE LAS DISPOSICIONES GENERALES**](capitulo-1ero.-disposiciones-generales/)
+[**CAPITULO PRIMERO : DE LAS DISPOSICIONES GENERALES**](capitulo-1ero.-disposiciones-generales)
 
 [Artículo 1: Disposiciones](capitulo-1ero.-disposiciones-generales/articulo-1-disposiciones.md)
 
@@ -38,7 +38,7 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 [Artículo 5: Sujeciones](capitulo-1ero.-disposiciones-generales/articulo-5-sujeciones.md)
 
-[**CAPITULO SEGUNDO: DE LOS FRACCIONAMIENTOS**](capitulo-2do.-de-los-fraccionamientos/)
+[**CAPITULO SEGUNDO: DE LOS FRACCIONAMIENTOS**](capitulo-2do.-de-los-fraccionamientos)
 
 [Artículo 6: Clasificación](capitulo-2do.-de-los-fraccionamientos/articulo-6-clasificacion.md)
 
@@ -50,13 +50,13 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 [Artículo 10: Calculo de Servicios Públicos](capitulo-2do.-de-los-fraccionamientos/articulo-10-calculo-de-servicios-publicos.md)
 
-[**CAPITULO TERCERO: DE LAS VIALIDADES**](capitulo-3ro.-de-las-vialidades/)
+[**CAPITULO TERCERO: DE LAS VIALIDADES**](capitulo-3ro.-de-las-vialidades)
 
 [Artículo 11: Tipos de Vialidades](capitulo-3ro.-de-las-vialidades/articulo-11-tipos-de-vialidades.md)
 
 [Artículo 12: Vialidad Paralela uso Comercial](capitulo-3ro.-de-las-vialidades/articulo-12-vialidad-paralela-uso-comercial.md)
 
-[**CAPITULO CUARTO: DE LAS AUTORIZACIONES Y LOS PROCEDIMIENTOS**](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/)
+[**CAPITULO CUARTO: DE LAS AUTORIZACIONES Y LOS PROCEDIMIENTOS**](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos)
 
 [Artículo 13: Solicitudes de Autorizaciones](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-13-solicitudes-de-autorizaciones.md)
 
@@ -70,7 +70,7 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 [Artículo 18: Autorización Uso Suelo](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-18-autorizacion-uso-suelo.md)
 
-[Artículo 19: Autorización Estatal MIA](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-19-autorizacion-estatal-mia.md)&#x20;
+[Artículo 19: Autorización Estatal MIA](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-19-autorizacion-estatal-mia.md)
 
 [Artículo 20: Dictamen Técnico Lotificación](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-20-dictamen-tecnico-lotificacion.md)
 
@@ -104,8 +104,6 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 **CAPITULO NOVENO: DE LAS OBLIGACIONES DE LAS AUTORIDADES**
 
-
-
 **CAPITULO DECIMO: DE LAS NOTIFICACIONES, TÉRMINOS Y CITACIONES**
 
 ###
@@ -120,9 +118,6 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 **CAPITULO DECIMO TERCERO: DE LOS MEDIOS DE DEFENSA**
 
-
-
 **TRANSITORIOS**
 
 ###
-
