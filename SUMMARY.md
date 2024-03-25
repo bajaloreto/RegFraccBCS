@@ -1,14 +1,13 @@
 # Table of contents
 
-* [Page](README.md)
-* [REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA SUR (2012)](reglamento-de-fraccionamientos-del-estado-de-baja-california-sur-2012.md)
+* [REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA SUR (2012)](README.md)
 * [CAPITULO 1ero. - DISPOSICIONES GENERALES](capitulo-1ero.-disposiciones-generales/README.md)
   * [Articulo 1: Disposiciones](capitulo-1ero.-disposiciones-generales/articulo-1-disposiciones.md)
   * [Articulo 2 : Definiciones](capitulo-1ero.-disposiciones-generales/articulo-2-definiciones.md)
   * [Articulo 3: Competencia Estatal](capitulo-1ero.-disposiciones-generales/articulo-3-competencia-estatal.md)
   * [Articulo 4: Competencia Municipal](capitulo-1ero.-disposiciones-generales/articulo-4-competencia-municipal.md)
   * [Articulo 5: Sujeciones](capitulo-1ero.-disposiciones-generales/articulo-5-sujeciones.md)
-* [CAPITULO 2do. -  DE LOS FRACCIONAMIENTOS](capitulo-2do.-de-los-fraccionamientos/README.md)
+* [CAPITULO 2do. - DE LOS FRACCIONAMIENTOS](capitulo-2do.-de-los-fraccionamientos/README.md)
   * [Articulo 6: Clasificación](capitulo-2do.-de-los-fraccionamientos/articulo-6-clasificacion.md)
   * [Artículo 7: Aprobación Habitacional](capitulo-2do.-de-los-fraccionamientos/articulo-7-aprobacion-habitacional.md)
   * [Artículo 8: Restricción a la urbanización](capitulo-2do.-de-los-fraccionamientos/articulo-8-restriccion-a-la-urbanizacion.md)
