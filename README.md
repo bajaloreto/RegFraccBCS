@@ -1,6 +1,6 @@
 # REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA SUR (2012)
 
-<figure><img src=".gitbook/assets/New Logo HuQuMa Studio Vertical.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><picture><source srcset=".gitbook/assets/New Logo HuQuMa Studio Vertical W.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/New Logo HuQuMa Studio Vertical.png" alt="" width="188"></picture><figcaption></figcaption></figure>
 
 ## Introduccion
 
