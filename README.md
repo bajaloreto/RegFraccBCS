@@ -86,38 +86,38 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 [Artículo 26: Inscripción en Registro Público](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-26-inscripcion-en-registro-publico.md)
 
-**CAPITULO QUINTO: DE LAS OBLIGACIONES DEL FRACCIONADOR**
+[**CAPITULO QUINTO: DE LAS OBLIGACIONES DEL FRACCIONADOR**](capitulo-5to.-de-las-obligaciones-del-fraccionador.md)
 
 ###
 
-**CAPITULO SEXTO: DE LA EJECUCION DE LAS OBRAS Y VENTA DE LOTES**
+[**CAPITULO SEXTO: DE LA EJECUCION DE LAS OBRAS Y VENTA DE LOTES**](capitulo-6to.-de-la-ejecucion-de-las-obras-y-venta-de-lotes.md)
 
 ###
 
-**CAPITULO SEPTIMO: DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE LOTES**
+[**CAPITULO SEPTIMO: DE LAS OBLIGACIONES DE LOS PROPIETARIOS DE LOTES**](capitulo-7mo.-de-las-obligaciones-de-los-propietarios-de-lotes.md)
 
 ###
 
-**CAPITULO OCTAVO: DE LA SUBDIVISION Y RELOTIFICACION DE PREDIOS**
+[**CAPITULO OCTAVO: DE LA SUBDIVISION Y RELOTIFICACION DE PREDIOS**](capitulo-8vo.-de-la-subdivision-y-relotificacion-de-predios.md)
 
 ###
 
-**CAPITULO NOVENO: DE LAS OBLIGACIONES DE LAS AUTORIDADES**
+[**CAPITULO NOVENO: DE LAS OBLIGACIONES DE LAS AUTORIDADES**](capitulo-9no.-de-las-obligaciones-de-las-autoridades.md)
 
-**CAPITULO DECIMO: DE LAS NOTIFICACIONES, TÉRMINOS Y CITACIONES**
-
-###
-
-**CAPITULO DECIMO PRIMERO: DE LA INSPECCIÓN, VIGILANCIA Y DE LAS MEDIDAS DE SEGURIDAD**
+[**CAPITULO DECIMO: DE LAS NOTIFICACIONES, TÉRMINOS Y CITACIONES**](capitulo-10mo.-de-las-notificaciones-terminos-y-citaciones.md)
 
 ###
 
-**CAPITULO DECIMO SEGUNDO: DE LAS SANCIONES**
+[**CAPITULO DECIMO PRIMERO: DE LA INSPECCIÓN, VIGILANCIA Y DE LAS MEDIDAS DE SEGURIDAD**](capitulo-11ro.-de-la-inspeccion-vigilancia-y-de-las-medidas-de-seguridad.md)
 
 ###
 
-**CAPITULO DECIMO TERCERO: DE LOS MEDIOS DE DEFENSA**
+[**CAPITULO DECIMO SEGUNDO: DE LAS SANCIONES**](capitulo-12vo.-de-las-sanciones.md)
 
-**TRANSITORIOS**
+###
+
+[**CAPITULO DECIMO TERCERO: DE LOS MEDIOS DE DEFENSA**](capitulo-13vo.-de-los-medios-de-defensa.md)
+
+[**TRANSITORIOS**](transitorios.md)
 
 ###
