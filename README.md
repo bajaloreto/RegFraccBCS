@@ -26,7 +26,7 @@ C. Lic. leonel efrain cota montaño, gobernador constitucional del estado de baj
 
 por lo que con el fin de que los fraccionamientos que se construyan en el estado de baja california sur, cumplan con las necesidades técnicas, seguridad y orden de una manera especifica, el ejecutivo a mi cargo, a (sic) tenido a bien expedir el siguiente: **reglamento de fraccionamientos del estado de baja california sur.**
 
-[**CAPITULO PRIMERO : DE LAS DISPOSICIONES GENERALES**](capitulo-1ero.-disposiciones-generales)
+[**CAPITULO PRIMERO : DE LAS DISPOSICIONES GENERALES**](capitulo-1ero.-disposiciones-generales/)
 
 [Artículo 1: Disposiciones](capitulo-1ero.-disposiciones-generales/articulo-1-disposiciones.md)
 
@@ -38,7 +38,7 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 [Artículo 5: Sujeciones](capitulo-1ero.-disposiciones-generales/articulo-5-sujeciones.md)
 
-[**CAPITULO SEGUNDO: DE LOS FRACCIONAMIENTOS**](capitulo-2do.-de-los-fraccionamientos)
+[**CAPITULO SEGUNDO: DE LOS FRACCIONAMIENTOS**](https://hugo-quintero.gitbook.io/reglamento-fraccionamientos-bcs-2012/capitulo-2do.-de-los-fraccionamientos)
 
 [Artículo 6: Clasificación](capitulo-2do.-de-los-fraccionamientos/articulo-6-clasificacion.md)
 
@@ -50,13 +50,13 @@ por lo que con el fin de que los fraccionamientos que se construyan en el estado
 
 [Artículo 10: Calculo de Servicios Públicos](capitulo-2do.-de-los-fraccionamientos/articulo-10-calculo-de-servicios-publicos.md)
 
-[**CAPITULO TERCERO: DE LAS VIALIDADES**](capitulo-3ro.-de-las-vialidades)
+[**CAPITULO TERCERO: DE LAS VIALIDADES**](https://hugo-quintero.gitbook.io/reglamento-fraccionamientos-bcs-2012/capitulo-3ro.-de-las-vialidades)
 
 [Artículo 11: Tipos de Vialidades](capitulo-3ro.-de-las-vialidades/articulo-11-tipos-de-vialidades.md)
 
 [Artículo 12: Vialidad Paralela uso Comercial](capitulo-3ro.-de-las-vialidades/articulo-12-vialidad-paralela-uso-comercial.md)
 
-[**CAPITULO CUARTO: DE LAS AUTORIZACIONES Y LOS PROCEDIMIENTOS**](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos)
+[**CAPITULO CUARTO: DE LAS AUTORIZACIONES Y LOS PROCEDIMIENTOS**](https://hugo-quintero.gitbook.io/reglamento-fraccionamientos-bcs-2012/capitulo-4to.-de-las-autorizaciones-y-los-procedimientos)
 
 [Artículo 13: Solicitudes de Autorizaciones](capitulo-4to.-de-las-autorizaciones-y-los-procedimientos/articulo-13-solicitudes-de-autorizaciones.md)
 
